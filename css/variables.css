@@ -7,6 +7,7 @@
   --footter-acolor-10: rgba(255, 255, 255, 0.1);
   --accent-bgcolor: rgba(47, 48, 58, 1);
   --accent-bgcolor-40: rgba(47, 48, 58, 0.4);
+  --accent-bgcolor-80: rgba(47, 48, 58, 0.8);
   --section-bgcolor: rgba(245, 244, 250, 1);
   --logoheader-second-color: rgba(0, 0, 0, 1);
   --logofooter-second-color: rgba(255, 255, 255, 1);
@@ -19,6 +20,7 @@
   --min-indent: 30px;
   --card-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2),
     0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0, 0, 0, 0.12);
+  --timing-transition: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 /* 
